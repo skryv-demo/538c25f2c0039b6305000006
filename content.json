@@ -1,1 +1,52 @@
-{}
+{
+    "algemeen": {
+        "creatiedatum_van_klinische_file": "Mon Jun 02 2014 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {},
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {}
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreodie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
