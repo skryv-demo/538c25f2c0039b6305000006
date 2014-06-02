@@ -27,7 +27,9 @@
             "taalproblemen": {
                 "selectedChoices": {}
             },
-            "puberteitprepuberteit": {},
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
             "insulineschema": {},
             "datum_van_de_meest_recente_consultatie": "Wed Dec 18 2013 00:00:00 GMT+0100 (CET)",
             "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
@@ -35,8 +37,12 @@
         "metingen": {
             "lengte": {},
             "gewicht": {},
-            "systolische_bloeddruk": {},
-            "diastolische_bloeddruk": {}
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 150
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 100
+            }
         },
         "screenings": {
             "coeliakie": {
