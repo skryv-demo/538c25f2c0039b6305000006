@@ -70,6 +70,9 @@
             },
             "neuropathie": {
                 "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
             }
         }
     }
